@@ -74,15 +74,6 @@ input:focus,
 textarea:focus {
   outline: none; }
 
-.caret {
-    display: inline-block;
-    width: 0;
-    height: 0;
-    padding-left: 3px;
-    vertical-align: middle;
-    border: none;
-    content: "";
-}
 
 .container {
   margin-right: auto;
