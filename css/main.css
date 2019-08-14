@@ -261,7 +261,7 @@ pre {
   overflow: hidden;
   display: inline-block;
   position: relative;
-  padding: 12px 20px 12px;
+  padding: 12px 12px 12px;
   min-width: 120px;
   border: 2px solid transparent;
   min-height: 44px;
@@ -2032,7 +2032,7 @@ button.button {
 
 .nav-02__item {
   display: inline-block;
-  margin-right: 15px; }
+  margin-right: 5px; }
   .nav-02__item:last-child {
     margin-right: 0; }
   @media (max-width: 900px) {
