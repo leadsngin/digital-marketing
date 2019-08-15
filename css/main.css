@@ -85,12 +85,11 @@ ul.nav-02__list li.nav-02__list ul.dropdown-content {
   position: absolute;
   transition: all 0.5s ease;
   margin-top: 1rem;
-  left: 0;
   display: none;
 }
 
 ul.nav-02__list li.nav-02__list:hover > ul.dropdown-content,
-ul.nav-02__list li.nav-02__list ul.dropdown-content:hover {
+ul li:focus-within > ul.dropdown-content, ul.nav-02__list li.nav-02__list ul.dropdown-content:hover {
   visibility: visible;
   opacity: 1;
   display: block;
