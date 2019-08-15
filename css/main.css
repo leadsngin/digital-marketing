@@ -76,7 +76,7 @@ textarea:focus {
 
 /*Dropdown-menu*/
 li.nav-02__list {
-    display: block;
+    display: inline-block;
     transition-duration: 0.5s;
 }
 ul.nav-02__list li.nav-02__list ul.dropdown-content {
@@ -85,7 +85,6 @@ ul.nav-02__list li.nav-02__list ul.dropdown-content {
   position: absolute;
   transition: all 0.5s ease;
   margin-top: 1rem;
-  display: none;
 }
 
 ul.nav-02__list li.nav-02__list:hover > ul.dropdown-content,
