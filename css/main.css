@@ -664,7 +664,7 @@ button.button {
   display: inline-flex;
   align-items: center;
   border-radius: 9999px;
-  padding: 5px 15px 5px 6px;
+  padding: 10px 15px 10px 6px;
   text-decoration: none;
   transition: background-color 0.2s ease; }
   .pill-link--blue {
@@ -9203,7 +9203,7 @@ button.button {
 .text--01__box {
   position: relative;
   border-radius: 10px;
-  background-color: #4D61FC;
+  background-color: #5a8b27;
   padding: 20px 35px 30px; }
   @media (max-width: 500px) {
     .text--01__box {
