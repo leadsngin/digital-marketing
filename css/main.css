@@ -342,7 +342,7 @@ pre {
     .button--accent-bg .button__system_icon svg * {
       fill: white; }
     .button--accent-bg:hover {
-      background-color: #344bfc; }
+      background-color: #5a8b27; }
   .button--black-outline {
     background-color: transparent;
     border-color: #303030;
@@ -1046,7 +1046,7 @@ button.button {
   cursor: pointer; }
 
 .checkbox__input:checked:hover ~ .checkbox__check:before {
-  background-color: #344bfc; }
+  background-color: #5a8b27; }
 
 .checkbox__input:checked ~ .checkbox__check:before {
   transform: none;
