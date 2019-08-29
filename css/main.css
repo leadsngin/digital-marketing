@@ -8923,8 +8923,8 @@ button.button {
       margin-bottom: 40px; } }
 
 .footer-01__logo {
-  max-height: 30px;
-  max-width: 100px; }
+  max-height: 50px;
+  max-width: 100%; }
 
 .footer-01__list {
   padding: 0;
