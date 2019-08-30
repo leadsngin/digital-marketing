@@ -5483,6 +5483,10 @@ button.button {
   width: 16px;
   margin-right: 8px; }
 
+  .pricing-04__benefit_icon {
+  width: 50px;
+  margin-right: 8px; }
+
 .pricing-03__benefit_text {
   display: inline-block;
   line-height: 1.4; }
