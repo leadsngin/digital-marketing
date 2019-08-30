@@ -5485,12 +5485,12 @@ button.button {
 
   .pricing-04__benefit_icon {
   width: 50px;
-  margin-right: 8px; }
+  margin-right: 15px; }
 
 .pricing-03__benefit_text {
   display: inline-block;
   line-height: 1.4; }
-  
+
 .pricing-03__benefit_text h3 {
     color: #5a8b27;
 }
