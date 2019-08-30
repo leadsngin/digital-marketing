@@ -5490,7 +5490,10 @@ button.button {
 .pricing-03__benefit_text {
   display: inline-block;
   line-height: 1.4; }
-
+  
+.pricing-03__benefit_text h3 {
+    color: #5a8b27;
+}
 .pricing-03__illustration {
   position: relative;
   cursor: pointer; }
