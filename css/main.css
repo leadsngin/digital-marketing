@@ -5513,6 +5513,17 @@ button.button {
     -webkit-filter: contrast(1.4);
     filter: contrast(1.4); }
 
+.pricing-04__benefit {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-wrap: nowrap;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
 @keyframes main_floating {
   0% {
     transform: translateX(0) translateY(0); }
