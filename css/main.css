@@ -2586,11 +2586,12 @@ button.button {
       max-width: 500px; } }
 
 .header-07__img, .header-23__img, .header-24__img, .header-25__img, .header-58__img {
-  position: relative;
-  z-index: 10;
-  max-height: 500px;
-  max-width: 100%;
-  text-align: center; }
+    position: relative;
+    z-index: 10;
+    max-height: 600px;
+    max-width: 800px;
+    text-align: center;
+    right: -5%; }
   @media (max-width: 600px) {
     .header-07__img, .header-23__img, .header-24__img, .header-25__img, .header-58__img {
       max-height: 300px; } }
